@@ -2,7 +2,7 @@
 
 import random
 import chess
-from minimax.evaluate import Values
+from evaluate import Values
 
 
 class Minimax:
